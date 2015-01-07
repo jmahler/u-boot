@@ -251,7 +251,8 @@ Selection of Processor Architecture and Board Type:
 ---------------------------------------------------
 
 For all supported boards there are ready-to-use default
-configurations available; just type "make <board_name>_defconfig".
+configurations available. Just type "make <board_name>_defconfig"
+where the name corresponds to a file in the configs/ directory
 
 Example: For a TQM823L module type:
 
